@@ -1,0 +1,15 @@
+/home/olamilekan/Desktop/My_C-sharp_Journey/bin/Debug/net10.0/My_C-sharp_Journey
+/home/olamilekan/Desktop/My_C-sharp_Journey/bin/Debug/net10.0/My_C-sharp_Journey.deps.json
+/home/olamilekan/Desktop/My_C-sharp_Journey/bin/Debug/net10.0/My_C-sharp_Journey.runtimeconfig.json
+/home/olamilekan/Desktop/My_C-sharp_Journey/bin/Debug/net10.0/My_C-sharp_Journey.dll
+/home/olamilekan/Desktop/My_C-sharp_Journey/bin/Debug/net10.0/My_C-sharp_Journey.pdb
+/home/olamilekan/Desktop/My_C-sharp_Journey/obj/Debug/net10.0/My_C-sharp_Journey.GeneratedMSBuildEditorConfig.editorconfig
+/home/olamilekan/Desktop/My_C-sharp_Journey/obj/Debug/net10.0/My_C-sharp_Journey.AssemblyInfoInputs.cache
+/home/olamilekan/Desktop/My_C-sharp_Journey/obj/Debug/net10.0/My_C-sharp_Journey.AssemblyInfo.cs
+/home/olamilekan/Desktop/My_C-sharp_Journey/obj/Debug/net10.0/My_C-sharp_Journey.csproj.CoreCompileInputs.cache
+/home/olamilekan/Desktop/My_C-sharp_Journey/obj/Debug/net10.0/My_C-sharp_Journey.sourcelink.json
+/home/olamilekan/Desktop/My_C-sharp_Journey/obj/Debug/net10.0/My_C-sharp_Journey.dll
+/home/olamilekan/Desktop/My_C-sharp_Journey/obj/Debug/net10.0/refint/My_C-sharp_Journey.dll
+/home/olamilekan/Desktop/My_C-sharp_Journey/obj/Debug/net10.0/My_C-sharp_Journey.pdb
+/home/olamilekan/Desktop/My_C-sharp_Journey/obj/Debug/net10.0/My_C-sharp_Journey.genruntimeconfig.cache
+/home/olamilekan/Desktop/My_C-sharp_Journey/obj/Debug/net10.0/ref/My_C-sharp_Journey.dll

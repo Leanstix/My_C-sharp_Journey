@@ -1,12 +1,7 @@
-// This is a simple Hello World program in C#
-using System;
-
-class Program
+public static class HelloMessage
 {
-    // Main method - entry point of the program
-    static void Main()
+    public static string Get()
     {
-        // Print "Hello World" to the console
-        Console.WriteLine("Hello World");
+        return "Hello World";
     }
 }
