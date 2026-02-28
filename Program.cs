@@ -53,6 +53,24 @@ namespace My_C_sharp_journey
             string name = "Alice";
             Console.WriteLine($"Hello, my name is {name}");
 
+            var inferredInteger = 42; // The compiler infers this as an int
+            var inferredString = "Hello, World!"; // The compiler infers this as a string
+            var inferredDouble = 3.14; // The compiler infers this as a double
+            Console.WriteLine($"Inferred integer: {inferredInteger}");
+            Console.WriteLine($"Inferred string: {inferredString}");
+            Console.WriteLine($"Inferred double: {inferredDouble}");
+
+            var inferredLong = 1234567890123456789L; // The compiler infers this as a long
+            var inferredFloat = 3.14F; // The compiler infers this as a float
+            var inferredDecimal = 19.99M; // The compiler infers this as a decimal
+            var inferredBool = true; // The compiler infers this as a bool
+            var inferredChar = 'A'; // The compiler infers this as a char
+            Console.WriteLine($"Inferred long: {inferredLong}");
+            Console.WriteLine($"Inferred float: {inferredFloat}");
+            Console.WriteLine($"Inferred decimal: {inferredDecimal}");
+            Console.WriteLine($"Inferred bool: {inferredBool}");
+            Console.WriteLine($"Inferred char: {inferredChar}");
+
             // I hope this helps you on your C# journey! If you have any more questions or need further assistance, feel free to ask. Happy coding!
         }
     }
